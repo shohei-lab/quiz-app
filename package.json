@@ -34,5 +34,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "git@github.com:shohei-lob/quiz-app.git",
+  "author": "Shohei Miyahara <m.shohei1216@gmail.com>",
+  "license": "MIT"
 }
